@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi my name is Marcin, i'm an aspiring Data Analyst from Poland intrested in all things Python & Data Analysis!
+Hi my name is Marcin, i'm an aspiring Data Analyst from Poland intrested in all things Python & Data Analysis related!
 
 - 🔭 I’m currently working on Polish Streamer Landscape: A Comparative Analysis of Twitch vs. Kick
 - 🌱 I’m currently further improving my Data Analysis skills
