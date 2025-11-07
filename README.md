@@ -18,7 +18,7 @@
 
 * 🔭 I’m currently working on **Multi-Factor Risk & Performance Dashboard**.
 * 🌱 I’m currently learning **Statistics**.
-* 💬 Ask me about **[Data Analysis, SQL, Python**.
+* 💬 Ask me about **[Data Analysis, SQL, Python]**.
 
 <br>
 
